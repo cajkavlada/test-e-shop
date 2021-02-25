@@ -1,0 +1,8 @@
+.Controls{
+    width: 90%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border-style: solid;
+    margin-bottom: 20px;
+}
